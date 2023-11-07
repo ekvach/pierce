@@ -4,6 +4,7 @@ pierceapi/target/
 !**/src/test/**/target/
 
 ### IntelliJ IDEA ###
+pierceapi/.idea/
 pierceapi/.idea/modules.xml
 pierceapi/.idea/jarRepositories.xml
 pierceapi/.idea/compiler.xml
