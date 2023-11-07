@@ -1,0 +1,80 @@
+{
+  "name": "Proworks Open Toolbox + A9 Sprays 4 Value pack",
+  "type": "Product",
+  "sku": "PP-4954757",
+  "productName": "Proworks Open Toolbox + A9 Sprays 4 Value pack",
+  "longDescription": "Proworks open toolbox with aerosol bottle holder. Great for keeping your spray cans neatly organized and easily accesible.\n\nDimensions: 40,5 x 27,3 x 17,5 cm\n\nSprays included: (see descriptions below)\n- 1 x A9 Racing Motocross Chain Lube\n- 1 x A9 Racing Chain Cleaner\n- 1 x A9 Racing Brake Cleaner\n- 1 x A9 Racing Air Filter Oil Spray\n\n<b>A9 Racing Motocross Chain Lube</b> is designed to keep your chain fresh in the most extreme conditions that a chain may have to endure; for offroad motocross and enduro. A9 Racing Motocross Chain Lube provides long-term lubrication, which minimizes wear on the chain and sprockets.\n\nFeatures:\n• Lubricates, prevents rust and corrosion and is also water repellent\n• Ratio temperatures between -30 ° C to 180 ° C\n• Manufactured in Germany\n• Volume: 400 ml\n\n<b>A9 Racing Chain Cleaner</b> is a super-efficient chain cleaning spray, developed specifically to clean all types of chains.\n\nFeatures:\n• Works equally well on O- and X-ring chains\n• Doesn't dry out and damage the rubber seals\n• Manufactured in Germany                         \n• Volume: 400 ml\n\n<b>A9 Racing Brake Cleaner</b> is a powerful cleaning spray that dissolves even the toughest grease and grime. \n\nFeatures:\n• Quickly and easily removes oil, grease, brake fluid and other contaminants\n• Suitable for brake discs and pads, metal components, couplings, cable connections etc\n• Will not harm rubber, plastic or paint.\n• Volume: 400 ml\n\n<b>A9 Racing Air Filter Oil Spray</b> prevents penetration of sand, dust and water and guarantees optimum air permeability. \n\nFeatures:\n• Excellent adhesion\n• Usable in temperatures between -30° C to 180° C\n• Manufactured in Germany\n• Volume: 400 ml",
+  "availability": true,
+  "retailSet": false,
+  "productMaster": false,
+  "mastered": false,
+  "minOrderQuantity": 1,
+  "productBundle": true,
+  "manufacturer": "",
+  "images": [
+    {
+      "name": "default image",
+      "type": "Image",
+      "effectiveUrl": "https://pierce-images.imgix.net/images/8/9/b/3/89b3f69f277a4d068809b1a0dd4416ee_2_PP-4954757_0_10.png",
+      "viewID": "default",
+      "typeID": "image",
+      "primaryImage": true
+    },
+    {
+      "name": "default image1",
+      "type": "Image",
+      "effectiveUrl": "https://pierce-images.imgix.net/images/f/4/7/c/f47c04d917864810b925f22bab8f1d4b_2_PP-4954757_0_20.png",
+      "viewID": "default",
+      "typeID": "image1",
+      "primaryImage": false
+    },
+    {
+      "name": "default image2",
+      "type": "Image",
+      "effectiveUrl": "https://pierce-images.imgix.net/images/7/6/3/3/7633c3c4d9104f87854575f0ea567415_2_PP-4954757_0_30.png",
+      "viewID": "default",
+      "typeID": "image2",
+      "primaryImage": false
+    },
+    {
+      "name": "default image3",
+      "type": "Image",
+      "effectiveUrl": "https://pierce-images.imgix.net/images/4/b/5/4/4b54ac2f45c44bcdab89e12b35f01c86_2_PP-4954757_0_40.png",
+      "viewID": "default",
+      "typeID": "image3",
+      "primaryImage": false
+    },
+    {
+      "name": "default image4",
+      "type": "Image",
+      "effectiveUrl": "https://pierce-images.imgix.net/images/5/3/1/9/5319af06a9024d2eb856f2deb3066516_2_PP-4954757_0_50.png",
+      "viewID": "default",
+      "typeID": "image4",
+      "primaryImage": false
+    },
+    {
+      "name": "default image5",
+      "type": "Image",
+      "effectiveUrl": "https://pierce-images.imgix.net/images/e/e/c/5/eec53df7773e423c8677560fe56591a3_2_PP-4954757_0_60.png",
+      "viewID": "default",
+      "typeID": "image5",
+      "primaryImage": false
+    },
+    {
+      "name": "default image6",
+      "type": "Image",
+      "effectiveUrl": "https://pierce-images.imgix.net/images/3/d/7/a/3d7a7eb00bde4bc8bb3f21fd274582f9_2_PP-4954757_0_70.png",
+      "viewID": "default",
+      "typeID": "image6",
+      "primaryImage": false
+    },
+    {
+      "name": "default image7",
+      "type": "Image",
+      "effectiveUrl": "https://pierce-images.imgix.net/images/2/4/f/6/24f69bdc259346a9bdb44a754d581ef3_2_PP-4954757_0_80.png",
+      "viewID": "default",
+      "typeID": "image7",
+      "primaryImage": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+pierceapi/target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+pierceapi/.idea/modules.xml
+pierceapi/.idea/jarRepositories.xml
+pierceapi/.idea/compiler.xml
+pierceapi/.idea/libraries/
+pierceapi/*.iws
+pierceapi/*.iml
+pierceapi/*.ipr
+
+pierceui/node_modules/
+pierceui/test-results/
+pierceui/playwright-report/
+pierceui/playwright/.cache/
+pierceui/package-lock.json
