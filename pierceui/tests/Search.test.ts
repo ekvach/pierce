@@ -1,10 +1,10 @@
 import { expect, test } from '@playwright/test';
-import { UriProvider } from '../providers/UriProvider';
-import { HomePage } from '../pages/HomePage';
-import { SearchResultsPage } from '../pages/SearchResultsPage';
-import { ProductDetailsPage } from '../pages/ProductDetailsPage';
 import { ProductCardDto } from '../dtos/ProductCardDto';
 import { CartPage } from '../pages/CartPage';
+import { HomePage } from '../pages/HomePage';
+import { ProductDetailsPage } from '../pages/ProductDetailsPage';
+import { SearchResultsPage } from '../pages/SearchResultsPage';
+import { UriProvider } from '../providers/UriProvider';
 
 test.beforeEach(async ({ page }) => {
     await page.goto(UriProvider.baseUri);
@@ -19,6 +19,7 @@ test('Verify Product can be added to the Cart', async ({ page }) => {
     await homePage.searchAutocompleteLink
         .filter({ hasText: new RegExp(productName.toLowerCase() + '$') })
         .click();
+    await page.waitForLoadState('networkidle');
 
     await new SearchResultsPage(page).productContainer.filter({ hasText: productName }).click();
 
